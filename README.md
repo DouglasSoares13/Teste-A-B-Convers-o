@@ -1,4 +1,8 @@
 # 🧪 Análise de Teste A/B para Conversão no E-commerce
+![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+![PowerPoint](https://img.shields.io/badge/PowerPoint-B7472A?style=for-the-badge&logo=microsoft-powerpoint&logoColor=white)
+![CRISP--DM](https://img.shields.io/badge/Metodologia-CRISP--DM-blue?style=for-the-badge)
+
 
 Este projeto tem como objetivo avaliar, por meio de um teste A/B, se uma nova versão da página inicial de um site de e-commerce impacta positivamente a taxa de conversão dos usuários.
 
